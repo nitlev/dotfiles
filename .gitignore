@@ -1,0 +1,8 @@
+.config/gcloud/
+.config/gh/hosts.yml
+.config/github-copilot/
+.config/iterm2/
+.config/raycast/
+.config/raycast/config.json
+.config/tmux/plugins/
+.config/zed/
